@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="signin_topic">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login To Account</string>
+    <string name="button_newAccount">Need a new account ?</string>
+    <string name="search">Search</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="register_hint">New Email</string>
+    <string name="register_new_password">New Password</string>
+    <string name="register_conform_password">Confirm Password</string>
+    <string name="topic_register">Register</string>
+    <string name="button_register">Create a new account</string>
+    <string name="have_account">Already have an Account ?</string>
+    <string name="register_topic">Register</string>
+    <string name="no_reg">Already have an account</string>
+    <string name="edit_account">Edit Your Account</string>
+    <string name="edit_your_account">Edit Your Account</string>
+    <string name="edit_account_new_name">New name</string>
+    <string name="setup_button">Set your new name</string>
+    <string name="add_description">Add description</string>
+    <string name="post_btn_text">Post Blog</string>
+    <string name="bottom_home_txt">Home</string>
+    <string name="bottom_notification_txt">Notifications</string>
+    <string name="bottom_ac_txt">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
